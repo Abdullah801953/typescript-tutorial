@@ -1,0 +1,13 @@
+
+typescript is a superset of javascript that adds static typing and other features to enhance havascript development.it was developed by microsoft on oct 1,2012 and is now an open source project with a large community of contributiors.
+
+any valid javascript code is typescrip code.
+
+->benifits of typescripts
+1.easier to read=let names:string="abdullah"
+2.easier to mantained
+3.interfaces,tuples,enums,generic,classe etc
+4.typescript catches errors at compile time instead of runtime, which makes debugging easier and reduces the likelihood of bugs in production.
+
+->disadvantages
+1.browser not suppot typescript
